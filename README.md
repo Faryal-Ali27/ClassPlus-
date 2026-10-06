@@ -90,3 +90,4 @@ Build command: `npm install`, start command: `node server.js`.
 - Teacher accounts are just name + PIN (case-insensitive name). If someone knows both, they can open that teacher's sessions. This is meant for classroom use, not for sensitive data.
 - Session times are informational (shown to students and in the list). Sessions are not locked by the clock, so a class that runs late is never cut off. Use "End session" when the class is over.
 - Storage layout and API are in `store.js` and `server.js` (both small and commented).
+"# classplus-project" 
